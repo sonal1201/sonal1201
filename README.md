@@ -1,30 +1,8 @@
 ## **Hey 👋, I'm Sonal Singh!**  
 
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on a top-secret project that even I haven't figured out yet!
-  
-
-- 🌱 I’m currently learning Frontend (NextJS), because Backend was getting lonely.  
-  
-
-- ❓ Ask me about anything related to Backend and related technologies  
-  
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="left" style="width: 80% height: 50%" />  
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -44,32 +22,3 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sonal1201&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=sonal1201&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
