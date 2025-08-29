@@ -1,8 +1,8 @@
 ## **Hey 👋, I'm Sonal Singh!**  
 
-- 🔭 I’m currently working on a top-secret project that even I haven't figured out yet!
+- 🔭 I’m currently building projects.....[Build,Ship,Repeat]
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ I keep night shift swithed on at all times   
 
 ## Languages and Tools  
 <div align="center">  
