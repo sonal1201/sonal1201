@@ -22,7 +22,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>  
 
-<div align="center">
+<div align="left">
 MatchCV
 AI-powered resume ranking platform for recruiters
 🔗 Live URL: https://matchcv.example.com
