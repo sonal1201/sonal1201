@@ -26,6 +26,7 @@
 
 | Project Name | Short Description | Live URL |
 |-------------|------------------|---------|
-| **MatchCV** | AI-powered resume ranking platform for recruiters | https://matchcv.example.com |
-| **ContentCraft.AI** | AI content generator for articles, images, and resumes | https://contentcraft.example.com |
-| **CipherStudio** | Browser-based React IDE to build and preview apps instantly | https://cipherstudio.example.com |
+| **CipherStudio** | Browser-based React IDE to build and preview apps instantly | cipher-schools-virid.vercel.app |
+| **ContentCraft.AI** | AI content generator for articles, images, and resumes | content-craft-ai-pi.vercel.app/ |
+| **MatchCV** | AI-powered resume ranking platform for recruiters | matchcv.vercel.app |
+
