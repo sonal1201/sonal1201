@@ -22,19 +22,20 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>  
 
-<div align="left">
-MatchCV
-AI-powered resume ranking platform for recruiters
-🔗 Live URL: https://matchcv.example.com
-<br/><br/>
+## 🔥 Live Projects
 
-ContentCraft.AI
-AI content generator for articles, images, and resume optimization
-🔗 Live URL: https://contentcraft.example.com
-<br/><br/>
+### MatchCV  
+AI-powered resume ranking platform for recruiters  
+🔗 **Live URL:** https://matchcv.example.com  
 
-CipherStudio
-Browser-based React IDE to build and preview apps instantly
-🔗 Live URL: https://cipherstudio.example.com
+---
 
-</div>
+### ContentCraft.AI  
+AI content generator for articles, images, and resume optimization  
+🔗 **Live URL:** https://contentcraft.example.com  
+
+---
+
+### CipherStudio  
+Browser-based React IDE to build and preview apps instantly  
+🔗 **Live URL:** https://cipherstudio.example.com  
