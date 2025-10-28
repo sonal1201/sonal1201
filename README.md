@@ -24,18 +24,8 @@
 
 ## 🔥 Live Projects
 
-### MatchCV  
-AI-powered resume ranking platform for recruiters  
-🔗 **Live URL:** https://matchcv.example.com  
-
----
-
-### ContentCraft.AI  
-AI content generator for articles, images, and resume optimization  
-🔗 **Live URL:** https://contentcraft.example.com  
-
----
-
-### CipherStudio  
-Browser-based React IDE to build and preview apps instantly  
-🔗 **Live URL:** https://cipherstudio.example.com  
+| Project Name | Short Description | Live URL |
+|-------------|------------------|---------|
+| **MatchCV** | AI-powered resume ranking platform for recruiters | https://matchcv.example.com |
+| **ContentCraft.AI** | AI content generator for articles, images, and resumes | https://contentcraft.example.com |
+| **CipherStudio** | Browser-based React IDE to build and preview apps instantly | https://cipherstudio.example.com |
